@@ -4,10 +4,10 @@
 - Открыть в браузере сайт test.ommat.ru
 
 **Протестировать в браузерах:**
-- Mozilla Firefox, начиная с версии 78;
-- Google Chrome, начиная с версии 98;
-- Apple Safari, начиная с версии 15;
-- Yandex Browser, начиная с версии 21.11.
+- Mozilla Firefox;
+- Google Chrome;
+- Apple Safari;
+- Yandex Browser.
 
 ## Т1
 <table>
