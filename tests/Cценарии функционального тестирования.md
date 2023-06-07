@@ -3,12 +3,6 @@
 **Предварительное действие:** 
 - Открыть в браузере сайт test.ommat.ru
 
-**Протестировать в браузерах:**
-- Mozilla Firefox;
-- Google Chrome;
-- Apple Safari;
-- Yandex Browser.
-
 ## Т1
 <table>
 <tr><td><b>Действие</b></td><td><b>Ожидаемый результат</b></td></tr>
