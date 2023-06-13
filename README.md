@@ -1,2 +1,2 @@
 # algoscalc-docs
-Documentation for an algorithms online calculator project
+Документация проекта по разработке Онлайн-калькулятора
